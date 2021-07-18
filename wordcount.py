@@ -4,8 +4,8 @@ def word_count():
 
 print(word_count())  
 
-Hello = " He  llo  world"
-print(string.replace(" ",""))
+# Hello = " He  llo  world"
+# print(string.replace(" ",""))
 
 # def word_count():
 #     thought = input("What's on your mind? : ")
